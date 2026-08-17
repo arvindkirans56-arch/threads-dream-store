@@ -1,0 +1,15 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Threads Dream",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Threads Dream",
+  "start_url": "/",
+  "theme_color": "#ff00f3",
+  "description": "Handmade Crochet Creations Made with Love",
+  "categories": [
+    "personalization"
+  ]
+}
